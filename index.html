@@ -1,0 +1,190 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>Kultūros Naktis 2014</title>
+
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+
+    <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+    <style type="text/css">
+      html { height: 100% }
+      body { height: 100%; margin: 0; padding: 0 }
+      #map-canvas { height: 100% }
+      #controls button {
+        margin: 5px;
+      }
+      #layers { display: none; }
+      button a, button a:hover, button a:visited { color: white; }
+      input[type='range'] {
+        border-radius: 5px;
+        box-shadow: inset 0 0 5px #333;
+        background-color: #428bca;
+        height: 16px;
+        vertical-align: middle;
+        display: inline-block;
+        width: 140px;
+      }
+      .modal-content {
+        padding: 5px;
+      }
+      #title {
+        font-weight: bold;
+        font-size: larger;
+      }
+    </style>
+    <script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBZaFMwQygdgVYh8XNKbSmNwWCxDnsZYQg">
+    </script>
+    <script type="text/javascript">
+      var map = null;
+      var disabledTypes = [];
+
+      $(function() {
+        createMap();
+        createPopover();
+        createSlider();
+        createLayers();
+      });
+
+      function createMap() {
+        var vilnius = new google.maps.LatLng(54.6845267, 25.2725436);
+        var mapOptions = {
+          zoom: 14,
+          center: vilnius
+        };
+
+        map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+        homeControlDiv = document.getElementById("controls");
+        map.controls[google.maps.ControlPosition.TOP_RIGHT].push(homeControlDiv);
+
+        if (navigator.geolocation) {
+          navigator.geolocation.getCurrentPosition(function(position) {
+            initialLocation = new google.maps.LatLng(position.coords.latitude,position.coords.longitude);
+            map.setCenter(initialLocation);
+          }, function() {});
+        }
+      }
+
+      function createPopover() {
+        $('#visible-layers').popover({
+          container: "body",
+          placement: "bottom",
+          html : true,
+          content: function() {
+            return $('#layers').html();
+          }
+        });
+
+        $('body').on('click', '.layer', function (event) {
+          var element = $(event.target)
+          var name = element.data("name")
+          $(element).toggleClass("active");
+          // When popover is closed, its DOM elements are destroyed.
+          // We have to set correct class for the original, so that
+          // recreated popover has correct state
+          $('#layers .layer[data-name="'+name+'"]').toggleClass("active");
+
+          map.data.forEach(function(feature) {
+            var type = feature.getProperty("type")
+            if (name == type) {
+              feature.setProperty("disabledByType", !$(element).hasClass("active"));
+            }
+          });
+        });
+      }
+
+      function createLayers() {
+        map.data.loadGeoJson('data.geojson');
+
+        map.data.addListener('click', function(event) {
+          console.log(event.feature);
+          $('#modal #title').text(event.feature.getProperty("title"));
+          $('#modal #time').text(
+            event.feature.getProperty("from") +
+            " - " +
+            event.feature.getProperty("until") +
+            " val."
+          );
+          $('#modal #description').text(event.feature.getProperty("description"));
+          $('#modal #link').attr("href", event.feature.getProperty("link"));
+          $('#modal').modal();
+        });
+
+        map.data.setStyle(function(feature) {
+          var visible = !feature.getProperty('disabled') && !feature.getProperty('disabledByType')
+
+          return {
+            visible: visible,
+            icon: "http://www.kulturosnaktis.lt/images/map/g/" + feature.getProperty("type") + ".png"
+          };
+        });
+      }
+
+      function createSlider() {
+        $("#view-from").change(function(evt) {
+          console.log( "Handler for .change() called.");
+          var eventsStart = 11;
+          var eventsEnd = 3;
+          var selectedTime = evt.currentTarget.value / 100 * (24 - eventsStart + eventsEnd) + eventsStart;
+
+          $("#selected-time").text(Math.floor(selectedTime > 24 ? selectedTime - 24 : selectedTime));
+
+          map.data.forEach(function(feature) {
+            var endsAt = feature.getProperty("untilNumerical")
+            if (endsAt < eventsStart) {
+              endsAt += 24;
+            }
+            feature.setProperty("disabled", selectedTime > endsAt);
+          });
+        });
+      }
+    </script>
+  </head>
+  <body>
+    <div id="map-canvas">
+    </div>
+
+    <div id="controls">
+      <div>
+        <span>Iki </span><span id="selected-time">18</span><span> h. </span><input id="view-from" type="range" name="points" min="0" max="100">
+      </div>
+      <button id="visible-layers" type="button" class="btn btn-primary btn-xs" data-toggle="popover">
+        Rodomos vietos
+      </button>
+      <button type="button" class="btn btn-primary btn-xs">
+        <a target="_blank" href="https://github.com/lietuvoje/kulturos-naktis">Prisidėk!</a>
+      </button>
+    </div>
+
+    <ul id="layers" class="list-group">
+      <li class="layer list-group-item active" data-name="dancinghall">Šokiai</li>
+      <li class="layer list-group-item active" data-name="cinema">Kinas</li>
+      <li class="layer list-group-item active" data-name="music_live">Gyva muzika</li>
+      <li class="layer list-group-item active" data-name="theater">Teatrai</li>
+      <li class="layer list-group-item active" data-name="publicart">Vieša erdvė</li>
+      <li class="layer list-group-item active" data-name="flag-export">Kita</li>
+    </ul>
+
+    <div id="modal" class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <p id="title"></p>
+          <p id="time"></p>
+          <p id="description"></p>
+          <a id="link" href="" target="_blank">Daugiau</a>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
