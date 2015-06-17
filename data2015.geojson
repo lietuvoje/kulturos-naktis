@@ -1,0 +1,2953 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 413,
+      "type": "Feature",
+      "properties": {
+        "title": "„Vandens iliuzijos“",
+        "from": "23:00",
+        "fromNumerical": 23,
+        "until": "03:00",
+        "untilNumerical": 3,
+        "description": "Neries upė prie Baltojo tilto",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/413",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27162313,
+          54.69320682
+        ]
+      }
+    },
+    {
+      "id": 415,
+      "type": "Feature",
+      "properties": {
+        "title": "Cirko spektaklis „APESAR“ („Nepaisant“), Prancūzija",
+        "from": "21:00",
+        "fromNumerical": 21,
+        "until": "21:25",
+        "untilNumerical": 21.416666666666668,
+        "description": "Vilniaus paveikslų galerijos kiemas (Didžioji g. 4)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/415",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28871953,
+          54.68044361
+        ]
+      }
+    },
+    {
+      "id": 417,
+      "type": "Feature",
+      "properties": {
+        "title": "Muzikinė instaliacija „Humming around and around“ („Suktis užburtu ratu“ ), Nyderlandai",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "19:20",
+        "untilNumerical": 19.333333333333332,
+        "description": "Lietuvos teatro, muzikos ir kino muziejaus kiemas (Vilniaus g. 41)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/417",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2805227,
+          54.68150427
+        ]
+      }
+    },
+    {
+      "id": 419,
+      "type": "Feature",
+      "properties": {
+        "title": "Šokio spektaklis „Te Odiero“ („Myliu/nekenčiu“), Ispanija",
+        "from": "21:30",
+        "fromNumerical": 21.5,
+        "until": "21:45",
+        "untilNumerical": 21.75,
+        "description": "S. Daukanto a.",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/419",
+        "type": "dancinghall",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/dancinghall.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28605342,
+          54.68371852
+        ]
+      }
+    },
+    {
+      "id": 421,
+      "type": "Feature",
+      "properties": {
+        "title": "„Šiaurės šalių scena“, Suomija, Norvegija ir Danija",
+        "from": "20:30",
+        "fromNumerical": 20.5,
+        "until": "01:00",
+        "untilNumerical": 1,
+        "description": "Prezidentūros rūmų kiemas (S. Daukanto a. 3)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/421",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2857852,
+          54.68288741
+        ]
+      }
+    },
+    {
+      "id": 423,
+      "type": "Feature",
+      "properties": {
+        "title": "Macnas „Haunted Air“ („Užburtas oras“), Airija",
+        "from": "20:00",
+        "fromNumerical": 20,
+        "until": "20:30",
+        "untilNumerical": 20.5,
+        "description": "Eisena nuo Katedros aikštės, Pilies gatve iki Rotušės aikštės",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/423",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28679371,
+          54.68514501
+        ]
+      }
+    },
+    {
+      "id": 425,
+      "type": "Feature",
+      "properties": {
+        "title": "Skambantys Valdovų rūmai",
+        "from": "17:00",
+        "fromNumerical": 17,
+        "until": "01:00",
+        "untilNumerical": 1,
+        "description": "Valdovų rūmai (Katedros a. 4)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/425",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28878927,
+          54.68586443
+        ]
+      }
+    },
+    {
+      "id": 427,
+      "type": "Feature",
+      "properties": {
+        "title": "„LRT OPUS SCENA“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "02:00",
+        "untilNumerical": 2,
+        "description": "„Vasaros Terasa“ (Vilniaus g. 39)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/427",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27978778,
+          54.68205629
+        ]
+      }
+    },
+    {
+      "id": 429,
+      "type": "Feature",
+      "properties": {
+        "title": "„TILTAS PO TILTU“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "02:00",
+        "untilNumerical": 2,
+        "description": "Žvėryno pėsčiųjų tiltas",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/429",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.24329901,
+          54.69122252
+        ]
+      }
+    },
+    {
+      "id": 431,
+      "type": "Feature",
+      "properties": {
+        "title": "„Mikroskopas“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "01:00",
+        "untilNumerical": 1,
+        "description": "Bekešo kalno papėdė",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/431",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29624045,
+          54.68533727
+        ]
+      }
+    },
+    {
+      "id": 433,
+      "type": "Feature",
+      "properties": {
+        "title": "Šviesos instaliacija „Atspindžiai“",
+        "from": "22:00",
+        "fromNumerical": 22,
+        "until": "02:00",
+        "untilNumerical": 2,
+        "description": "Kūdrų parkas ",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/433",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29737234,
+          54.67822298
+        ]
+      }
+    },
+    {
+      "id": 435,
+      "type": "Feature",
+      "properties": {
+        "title": "„Vilnelės šviesa“",
+        "from": "22:00",
+        "fromNumerical": 22,
+        "until": "02:00",
+        "untilNumerical": 2,
+        "description": "Vilnelė nuo FLUXUS tiltelio iki Užupio tilto  ",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/435",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29432803,
+          54.68236331
+        ]
+      }
+    },
+    {
+      "id": 437,
+      "type": "Feature",
+      "properties": {
+        "title": "David Černý „Kabantis žmogus“, Čekija",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "02:00",
+        "untilNumerical": 2,
+        "description": "Viešbučio „Novotel“ fasadas (Gedimino pr. 16)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/437",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27974486,
+          54.68698076
+        ]
+      }
+    },
+    {
+      "id": 439,
+      "type": "Feature",
+      "properties": {
+        "title": "„Šeimų erdvė“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "00:00",
+        "untilNumerical": 0,
+        "description": "Bernardinų sodas",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/439",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29562354,
+          54.68404104
+        ]
+      }
+    },
+    {
+      "id": 441,
+      "type": "Feature",
+      "properties": {
+        "title": "Taboras žengia į „Kultūros naktį“ (Serbija, Lenkija, Lietuva)",
+        "from": "21:00",
+        "fromNumerical": 21,
+        "until": "01:00",
+        "untilNumerical": 1,
+        "description": "Šalia Vilniaus Bastėjos (prie Subačiaus g.)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/441",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29401422,
+          54.67761507
+        ]
+      }
+    },
+    {
+      "id": 443,
+      "type": "Feature",
+      "properties": {
+        "title": "„Lazerių Miškas“",
+        "from": "22:00",
+        "fromNumerical": 22,
+        "until": "00:00",
+        "untilNumerical": 0,
+        "description": "„Floor“ kiemelis (Vilniaus g. 33)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/443",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27914941,
+          54.68326576
+        ]
+      }
+    },
+    {
+      "id": 445,
+      "type": "Feature",
+      "properties": {
+        "title": "„PIANO.LT vasaros terasa“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "01:00",
+        "untilNumerical": 1,
+        "description": "„PIANO.LT“ terasa (Trakų g. 9/1)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/445",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2807641,
+          54.67861997
+        ]
+      }
+    },
+    {
+      "id": 447,
+      "type": "Feature",
+      "properties": {
+        "title": "„Skamba, spindi, šviečia ir šokti kviečia“ (Azerbaidžanas, Lietuva)",
+        "from": "22:00",
+        "fromNumerical": 22,
+        "until": "02:00",
+        "untilNumerical": 2,
+        "description": "„Gėlių paviljonas“ (Pylimo g. 21B)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/447",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27844667,
+          54.67817335
+        ]
+      }
+    },
+    {
+      "id": 449,
+      "type": "Feature",
+      "properties": {
+        "title": "„Cello Goblin show“ (JAV)",
+        "from": "23:00",
+        "fromNumerical": 23,
+        "until": "00:30",
+        "untilNumerical": 0.5,
+        "description": "Vilniaus Rotušė (Didžioji g. 31)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/449",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28707266,
+          54.67804929
+        ]
+      }
+    },
+    {
+      "id": 451,
+      "type": "Feature",
+      "properties": {
+        "title": "„no pain no game“ (Vokietija)",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "22:00",
+        "untilNumerical": 22,
+        "description": "„Šiuolaikinio meno centras“ (Vokiečių g. 2)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/451",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28608024,
+          54.67790041
+        ]
+      }
+    },
+    {
+      "id": 453,
+      "type": "Feature",
+      "properties": {
+        "title": "Šokio spektaklis „Ir viskas klojos kuo puikiausiai“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "19:30",
+        "untilNumerical": 19.5,
+        "description": "K. Sirvydo skveras",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/453",
+        "type": "dancinghall",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/dancinghall.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28772712,
+          54.68122515
+        ]
+      }
+    },
+    {
+      "id": 455,
+      "type": "Feature",
+      "properties": {
+        "title": "Šokio ir cirko sintezės projektas „Juokingo žmogaus sapnas“",
+        "from": "22:00",
+        "fromNumerical": 22,
+        "until": "22:30",
+        "untilNumerical": 22.5,
+        "description": "Katedros aikštė, už Gedimino paminklo",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/455",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2889502,
+          54.68534347
+        ]
+      }
+    },
+    {
+      "id": 525,
+      "type": "Feature",
+      "properties": {
+        "title": "UPTOWN MARKET. We <3 Summer.",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "02:00",
+        "untilNumerical": 2,
+        "description": "Menų Fabriko „Loftas“ vidinis kiemas (Švitrigailos g. 29)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/525",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.26659131,
+          54.67865719
+        ]
+      }
+    },
+    {
+      "id": 457,
+      "type": "Feature",
+      "properties": {
+        "title": "„Kabom“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "02:00",
+        "untilNumerical": 2,
+        "description": "Baltasis tiltas",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/457",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27252436,
+          54.69271075
+        ]
+      }
+    },
+    {
+      "id": 459,
+      "type": "Feature",
+      "properties": {
+        "title": "„Sudie Elyza!\"",
+        "from": "23:00",
+        "fromNumerical": 23,
+        "until": "01:00",
+        "untilNumerical": 1,
+        "description": "Pylimo g. 64",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/459",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28761983,
+          54.67184572
+        ]
+      }
+    },
+    {
+      "id": 461,
+      "type": "Feature",
+      "properties": {
+        "title": "„Migracija“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "23:00",
+        "untilNumerical": 23,
+        "description": "Vilnelė, priešais „Užupio kavinę“ (Užupio g. 2) ",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/461",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29236197,
+          54.68069172
+        ]
+      }
+    },
+    {
+      "id": 463,
+      "type": "Feature",
+      "properties": {
+        "title": "„Effect of Us“",
+        "from": "20:00",
+        "fromNumerical": 20,
+        "until": "23:00",
+        "untilNumerical": 23,
+        "description": "S. Moniuškos skveras",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/463",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28044626,
+          54.68202838
+        ]
+      }
+    },
+    {
+      "id": 465,
+      "type": "Feature",
+      "properties": {
+        "title": "„Paklysk“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "00:00",
+        "untilNumerical": 0,
+        "description": "Pieva prie Baltojo tilto",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/465",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27301252,
+          54.69422373
+        ]
+      }
+    },
+    {
+      "id": 467,
+      "type": "Feature",
+      "properties": {
+        "title": "„Sferų pieva“",
+        "from": "20:00",
+        "fromNumerical": 20,
+        "until": "02:00",
+        "untilNumerical": 2,
+        "description": "Pieva šalia Baltojo tilto",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/467",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2712369,
+          54.69467018
+        ]
+      }
+    },
+    {
+      "id": 469,
+      "type": "Feature",
+      "properties": {
+        "title": "„Maistas menui, menas maistui“",
+        "from": "20:00",
+        "fromNumerical": 20,
+        "until": "02:00",
+        "untilNumerical": 2,
+        "description": "Tymo turgus (Aukštaičių g. / Maironio g. )",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/469",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29448628,
+          54.67883087
+        ]
+      }
+    },
+    {
+      "id": 471,
+      "type": "Feature",
+      "properties": {
+        "title": "„Meno celės“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "01:00",
+        "untilNumerical": 1,
+        "description": "Vilniaus dailės akademija, „Titanikas“, Naujieji rūmai, Senieji rūmai",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/471",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29342413,
+          54.68368131
+        ]
+      }
+    },
+    {
+      "id": 473,
+      "type": "Feature",
+      "properties": {
+        "title": "„Nemieganti Menų spaustuvė“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "00:00",
+        "untilNumerical": 0,
+        "description": "„Menų spaustuvė“ (Šiltadaržio g. 6)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/473",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29193282,
+          54.68436355
+        ]
+      }
+    },
+    {
+      "id": 475,
+      "type": "Feature",
+      "properties": {
+        "title": "Styginių kvarteto „Chordos“ projektas „Elektrinių vabzdžių naktis“",
+        "from": "21:00",
+        "fromNumerical": 21,
+        "until": "22:15",
+        "untilNumerical": 22.25,
+        "description": "Vilniaus Dailės akademijos Gotikinė salė (Maironio g. 6) ",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/475",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29475451,
+          54.6836565
+        ]
+      }
+    },
+    {
+      "id": 479,
+      "type": "Feature",
+      "properties": {
+        "title": "„Nemigos aitvaras“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "01:00",
+        "untilNumerical": 1,
+        "description": "„Vilniaus paveikslų galerija“ (Didžioji g. 4)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/479",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28871953,
+          54.68043741
+        ]
+      }
+    },
+    {
+      "id": 481,
+      "type": "Feature",
+      "properties": {
+        "title": "„Sustok, akimirka!“",
+        "from": "21:00",
+        "fromNumerical": 21,
+        "until": "22:00",
+        "untilNumerical": 22,
+        "description": "Vilniaus Rotušė (Didžioji g. 31)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/481",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28707266,
+          54.67804929
+        ]
+      }
+    },
+    {
+      "id": 485,
+      "type": "Feature",
+      "properties": {
+        "title": "„Japoniška žvaigždžių pasaka“",
+        "from": "21:00",
+        "fromNumerical": 21,
+        "until": "22:00",
+        "untilNumerical": 22,
+        "description": "Namai ant Tauro kalno (buvę Profsąjungų rūmai)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/485",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.26851177,
+          54.68469846
+        ]
+      }
+    },
+    {
+      "id": 487,
+      "type": "Feature",
+      "properties": {
+        "title": "Ugnies spektaklis „Pasaka apie...“",
+        "from": "22:00",
+        "fromNumerical": 22,
+        "until": "22:15",
+        "untilNumerical": 22.25,
+        "description": "Amatininkų turgaus aikštė Pilies gatvėje",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/487",
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2891326,
+          54.68105148
+        ]
+      }
+    },
+    {
+      "id": 489,
+      "type": "Feature",
+      "properties": {
+        "title": "Gatvės teatro spektaklis „Demokratijos gimimas ir mirtis“ arba „Tir de la libertad“",
+        "from": "23:00",
+        "fromNumerical": 23,
+        "until": "00:00",
+        "untilNumerical": 0,
+        "description": "V. Kudirkos aikštė",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/489",
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28030276,
+          54.68720402
+        ]
+      }
+    },
+    {
+      "id": 491,
+      "type": "Feature",
+      "properties": {
+        "title": "VILNIAUS PLUNKSNA: „Naktinis badmintonas“",
+        "from": "22:00",
+        "fromNumerical": 22,
+        "until": "01:00",
+        "untilNumerical": 1,
+        "description": "Prie Žvėryno pėsčiųjų tilto",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/491",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.24372816,
+          54.69114811
+        ]
+      }
+    },
+    {
+      "id": 493,
+      "type": "Feature",
+      "properties": {
+        "title": "Antoine Brumel mišios „Et terrae e motto“",
+        "from": "23:00",
+        "fromNumerical": 23,
+        "until": "00:00",
+        "untilNumerical": 0,
+        "description": "Šv. Ignoto bažnyčia (Šv. Ignoto g. 6)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/493",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28281063,
+          54.68213692
+        ]
+      }
+    },
+    {
+      "id": 495,
+      "type": "Feature",
+      "properties": {
+        "title": "„Kinas po žvaigždėmis“: Trumpametražiai filmai iš Skandinavijos šalių",
+        "from": "22:30",
+        "fromNumerical": 22.5,
+        "until": "00:00",
+        "untilNumerical": 0,
+        "description": "ŠMC kiemelis (Vokiečių g. 2)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/495",
+        "type": "cinema",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/cinema.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2856645,
+          54.67792833
+        ]
+      }
+    },
+    {
+      "id": 497,
+      "type": "Feature",
+      "properties": {
+        "title": "„Palaiminti taikdariai“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "20:20",
+        "untilNumerical": 20.333333333333332,
+        "description": "Šv. Kotrynos bažnyčia (Vilniaus g. 30)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/497",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28097868,
+          54.68194464
+        ]
+      }
+    },
+    {
+      "id": 499,
+      "type": "Feature",
+      "properties": {
+        "title": "„Tamsos žaidimas“",
+        "from": "20:00",
+        "fromNumerical": 20,
+        "until": "21:35",
+        "untilNumerical": 21.583333333333332,
+        "description": "Valstybinis jaunimo teatras, Salė 99 (Arklių g. 5)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/499",
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28641284,
+          54.67661635
+        ]
+      }
+    },
+    {
+      "id": 501,
+      "type": "Feature",
+      "properties": {
+        "title": "„Šviečiančios anoniminės sūpynės“",
+        "from": "21:00",
+        "fromNumerical": 21,
+        "until": "01:00",
+        "untilNumerical": 1,
+        "description": "Po Baltuoju Tiltu",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/501",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27385473,
+          54.69330603
+        ]
+      }
+    },
+    {
+      "id": 503,
+      "type": "Feature",
+      "properties": {
+        "title": "Pažadinta „Svema“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "02:00",
+        "untilNumerical": 2,
+        "description": "„Companys“ parduotuvės vitrina (Vokiečiu g. 15)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/503",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28335243,
+          54.68046222
+        ]
+      }
+    },
+    {
+      "id": 507,
+      "type": "Feature",
+      "properties": {
+        "title": "Kas vyksta „Kultūros naktyje“?",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "23:00",
+        "untilNumerical": 23,
+        "description": "Vilniaus mažasis teatras (Gedimino pr. 22)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/507",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27689636,
+          54.6874831
+        ]
+      }
+    },
+    {
+      "id": 509,
+      "type": "Feature",
+      "properties": {
+        "title": "Monospektaklis „UFO“ (rusų kalba)",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "21:30",
+        "untilNumerical": 21.5,
+        "description": "Lietuvos rusų dramos teatro Didžioji salė (J. Basanavičiaus g. 13)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/509",
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27337193,
+          54.68103907
+        ]
+      }
+    },
+    {
+      "id": 511,
+      "type": "Feature",
+      "properties": {
+        "title": "„Humanitarės gyvenimas ir mirtis ARBA būk mažesnis už aguonos grūdelį“",
+        "from": "22:00",
+        "fromNumerical": 22,
+        "until": "00:00",
+        "untilNumerical": 0,
+        "description": "„Šiaurės Atėnų“ bei „Literatūros ir Meno“ vidinis kiemelis (Mėsinių g. 4)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/511",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28496444,
+          54.67789421
+        ]
+      }
+    },
+    {
+      "id": 513,
+      "type": "Feature",
+      "properties": {
+        "title": "„Vilniaus kalbančios skulptūros“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "02:00",
+        "untilNumerical": 2,
+        "description": "Gedimino skulptūra (Katedros a.) ir kitos žymiausios Vilniaus skulptūros",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/513",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2886498,
+          54.68525664
+        ]
+      }
+    },
+    {
+      "id": 515,
+      "type": "Feature",
+      "properties": {
+        "title": "„URBINGO“ pažintinis miesto žaidimas",
+        "from": "20:00",
+        "fromNumerical": 20,
+        "until": "22:00",
+        "untilNumerical": 22,
+        "description": "Drakono pieva (Krokuvos g. ir Giedraičių g. sankryža)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/515",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27868807,
+          54.69781994
+        ]
+      }
+    },
+    {
+      "id": 517,
+      "type": "Feature",
+      "properties": {
+        "title": "„reFORMAT VILNIUS“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "02:00",
+        "untilNumerical": 2,
+        "description": "Galerija „Kalnas“ (Krivių g. 10)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/517",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.30003309,
+          54.6823416
+        ]
+      }
+    },
+    {
+      "id": 519,
+      "type": "Feature",
+      "properties": {
+        "title": "Spektaklis suaugusiems „Maršrutas“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "20:45",
+        "untilNumerical": 20.75,
+        "description": "Vilniaus teatras „Lėlė“ (Arklių g. 5)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/519",
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28636724,
+          54.67705368
+        ]
+      }
+    },
+    {
+      "id": 521,
+      "type": "Feature",
+      "properties": {
+        "title": "„Pakeliui į prieplauką“",
+        "from": "20:00",
+        "fromNumerical": 20,
+        "until": "21:00",
+        "untilNumerical": 21,
+        "description": "Vilniaus mažasis teatras (Gedimino pr. 22)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/521",
+        "type": "cinema",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/cinema.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27720213,
+          54.68722883
+        ]
+      }
+    },
+    {
+      "id": 523,
+      "type": "Feature",
+      "properties": {
+        "title": "„Pasirinkimas: kairę į dešinę“",
+        "from": "21:30",
+        "fromNumerical": 21.5,
+        "until": "23:00",
+        "untilNumerical": 23,
+        "description": "V. Kudirkos aikštė",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/523",
+        "type": "dancinghall",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/dancinghall.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28063536,
+          54.68735286
+        ]
+      }
+    },
+    {
+      "id": 669,
+      "type": "Feature",
+      "properties": {
+        "title": "Kultūros naktis „Kablyje“",
+        "from": "17:00",
+        "fromNumerical": 17,
+        "until": "02:00",
+        "untilNumerical": 2,
+        "description": "Kultūros baras „Kablys“ (Kauno g. 5)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/669",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27746767,
+          54.67308341
+        ]
+      }
+    },
+    {
+      "id": 527,
+      "type": "Feature",
+      "properties": {
+        "title": "„Kinas po atviru dangumi, Pilaitėje!“",
+        "from": "22:00",
+        "fromNumerical": 22,
+        "until": "00:00",
+        "untilNumerical": 0,
+        "description": "Šalia kūrybinių dirbtuvių „Beepart“ (Vydūno g. 0)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/527",
+        "type": "cinema",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/cinema.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.18267035,
+          54.70105625
+        ]
+      }
+    },
+    {
+      "id": 529,
+      "type": "Feature",
+      "properties": {
+        "title": "„Europa – mūsų namai“",
+        "from": "20:00",
+        "fromNumerical": 20,
+        "until": "00:00",
+        "untilNumerical": 0,
+        "description": "Gedimino pr. ir Vilniaus g. kampas",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/529",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27940691,
+          54.68706138
+        ]
+      }
+    },
+    {
+      "id": 531,
+      "type": "Feature",
+      "properties": {
+        "title": "„Jaunojo dizainerio prizas 2015“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "01:00",
+        "untilNumerical": 1,
+        "description": "Vilniaus dailės akademija, „Titaniko“ ekspozicijų salė (Maironio g. 3; 1 aukštas)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/531",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29264629,
+          54.68415888
+        ]
+      }
+    },
+    {
+      "id": 533,
+      "type": "Feature",
+      "properties": {
+        "title": "„Būkime draugais“",
+        "from": "17:00",
+        "fromNumerical": 17,
+        "until": "21:00",
+        "untilNumerical": 21,
+        "description": "S. Moniuškos skveras",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/533",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28045565,
+          54.68212762
+        ]
+      }
+    },
+    {
+      "id": 535,
+      "type": "Feature",
+      "properties": {
+        "title": "9-oji tarptautinė tekstilės miniatiūrų bienalė „Iš dėžės / Out of the Box“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "22:00",
+        "untilNumerical": 22,
+        "description": "Aušros Vartų g. 7",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/535",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2882421,
+          54.67603944
+        ]
+      }
+    },
+    {
+      "id": 537,
+      "type": "Feature",
+      "properties": {
+        "title": "Tibeto skvere – „Tibeto namai“",
+        "from": "17:00",
+        "fromNumerical": 17,
+        "until": "22:00",
+        "untilNumerical": 22,
+        "description": "Tibeto skveras (Malūnų g.)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/537",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29386669,
+          54.68163452
+        ]
+      }
+    },
+    {
+      "id": 539,
+      "type": "Feature",
+      "properties": {
+        "title": "„25 Oskaro Koršunovo teatro metai. Monologai“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "21:00",
+        "untilNumerical": 21,
+        "description": "OKT Studija (Ašmenos g. 8)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/539",
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2840602,
+          54.67788219
+        ]
+      }
+    },
+    {
+      "id": 541,
+      "type": "Feature",
+      "properties": {
+        "title": "„Paryžietiška naktis“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "00:00",
+        "untilNumerical": 0,
+        "description": "Vytauto Kasiulio dailės muziejus (A. Goštauto g. 1)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/541",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27570546,
+          54.69059621
+        ]
+      }
+    },
+    {
+      "id": 543,
+      "type": "Feature",
+      "properties": {
+        "title": "Smuikininkės Agnės Doveikaitės koncertas",
+        "from": "00:00",
+        "fromNumerical": 0,
+        "until": "01:00",
+        "untilNumerical": 1,
+        "description": "Vilniaus Dailės akademijos Gotikinė salė (Maironio g. 6)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/543",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29347509,
+          54.68372782
+        ]
+      }
+    },
+    {
+      "id": 545,
+      "type": "Feature",
+      "properties": {
+        "title": "„Kito kailyje“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "22:00",
+        "untilNumerical": 22,
+        "description": "K. Sirvydo skveras, iš Universiteto g. pusės",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/545",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28693587,
+          54.68144844
+        ]
+      }
+    },
+    {
+      "id": 547,
+      "type": "Feature",
+      "properties": {
+        "title": "„Pažodžiui“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "22:00",
+        "untilNumerical": 22,
+        "description": "Lenkų kultūros namai (Naugarduko g. 76)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/547",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.26084065,
+          54.67062971
+        ]
+      }
+    },
+    {
+      "id": 549,
+      "type": "Feature",
+      "properties": {
+        "title": "„Smilkalo stygos šokis“",
+        "from": "20:00",
+        "fromNumerical": 20,
+        "until": "20:30",
+        "untilNumerical": 20.5,
+        "description": "LMTA Muzikos inovacijų studijų centras (Gedimino pr. 42)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/549",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2693218,
+          54.6886614
+        ]
+      }
+    },
+    {
+      "id": 551,
+      "type": "Feature",
+      "properties": {
+        "title": "„Miestas - paslaptis“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "02:00",
+        "untilNumerical": 2,
+        "description": "Šv. Kazimiero g. ",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/551",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28985143,
+          54.6776647
+        ]
+      }
+    },
+    {
+      "id": 553,
+      "type": "Feature",
+      "properties": {
+        "title": "„Artistų“ koncertas po atviru dangumi",
+        "from": "22:00",
+        "fromNumerical": 22,
+        "until": "01:00",
+        "untilNumerical": 1,
+        "description": "PUB'as „Artistai“ (Šv. Kazimiero 3)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/553",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28898507,
+          54.67707229
+        ]
+      }
+    },
+    {
+      "id": 555,
+      "type": "Feature",
+      "properties": {
+        "title": "„Šviesos grafičiai naktyje“",
+        "from": "22:30",
+        "fromNumerical": 22.5,
+        "until": "01:00",
+        "untilNumerical": 1,
+        "description": "Švarco g. 2 (Prancūzijos ambasados tvora)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/555",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28821528,
+          54.68104527
+        ]
+      }
+    },
+    {
+      "id": 557,
+      "type": "Feature",
+      "properties": {
+        "title": "„Sekite KVAPŲ pėdsakais“ (paslaptingas KVEPALŲ KELIAS) ",
+        "from": "20:00",
+        "fromNumerical": 20,
+        "until": "00:00",
+        "untilNumerical": 0,
+        "description": "„LeMuse“ (Savičiaus g. 12)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/557",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29003717,
+          54.67944729
+        ]
+      }
+    },
+    {
+      "id": 559,
+      "type": "Feature",
+      "properties": {
+        "title": "Spektaklis „Viskas apie Ievą“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "21:00",
+        "untilNumerical": 21,
+        "description": "Pranciškonų rūmai (Trakų g. 9/1)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/559",
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28118521,
+          54.67913792
+        ]
+      }
+    },
+    {
+      "id": 561,
+      "type": "Feature",
+      "properties": {
+        "title": "„Pinigai: įdomybės ir paslaptys“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "01:00",
+        "untilNumerical": 1,
+        "description": "Lietuvos banko Pinigų muziejus (Totorių g. 2/8)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/561",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28255012,
+          54.68652571
+        ]
+      }
+    },
+    {
+      "id": 563,
+      "type": "Feature",
+      "properties": {
+        "title": "Flamenko šokio ir būgnų šou „Ritmo afro flamenco“",
+        "from": "22:30",
+        "fromNumerical": 22.5,
+        "until": "23:30",
+        "untilNumerical": 23.5,
+        "description": "Šventaragio slėnis",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/563",
+        "type": "dancinghall",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/dancinghall.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29047906,
+          54.68538068
+        ]
+      }
+    },
+    {
+      "id": 565,
+      "type": "Feature",
+      "properties": {
+        "title": "Kultūrinės atgaivos akcija „Kartą Marijos Šlapelienės lietuvių knygyne...“ ",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "01:00",
+        "untilNumerical": 1,
+        "description": "Marijos ir Jurgio Šlapelių namas-muziejus (Pilies g. 40)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/565",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28935522,
+          54.68141123
+        ]
+      }
+    },
+    {
+      "id": 567,
+      "type": "Feature",
+      "properties": {
+        "title": "„Ekrane atgyjantis Čiurlionis“",
+        "from": "19:30",
+        "fromNumerical": 19.5,
+        "until": "00:30",
+        "untilNumerical": 0.5,
+        "description": "M. K. Čiurlionio namai (Savičiaus g. 11)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/567",
+        "type": "cinema",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/cinema.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28956443,
+          54.67926818
+        ]
+      }
+    },
+    {
+      "id": 569,
+      "type": "Feature",
+      "properties": {
+        "title": "„Restauruotų kūrinių ir archeologinio požemio paslaptys“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "23:00",
+        "untilNumerical": 23,
+        "description": "Taikomosios dailės muziejus (Arsenalo g. 3A)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/569",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29225469,
+          54.68833272
+        ]
+      }
+    },
+    {
+      "id": 571,
+      "type": "Feature",
+      "properties": {
+        "title": "„ARTOTEKA“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "00:00",
+        "untilNumerical": 0,
+        "description": "Šeimyniškių g. 23",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/571",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29346704,
+          54.69464537
+        ]
+      }
+    },
+    {
+      "id": 573,
+      "type": "Feature",
+      "properties": {
+        "title": "„Trimito maršų paradas“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "19:00",
+        "untilNumerical": 19,
+        "description": "Vilniaus Rotušė (Didžioji g. 31)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/573",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28692514,
+          54.67815164
+        ]
+      }
+    },
+    {
+      "id": 575,
+      "type": "Feature",
+      "properties": {
+        "title": "Muzikinis poezijos monospektaklis „Kelionė“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "20:00",
+        "untilNumerical": 20,
+        "description": "Kultūros baras „Kablys“ (Kauno g. 5)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/575",
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27736843,
+          54.67344013
+        ]
+      }
+    },
+    {
+      "id": 577,
+      "type": "Feature",
+      "properties": {
+        "title": "„Sferų muzika“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "19:00",
+        "untilNumerical": 19,
+        "description": "Vidaus reikalų ministerijos vidinis kiemas (Šventaragio g. 2)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/577",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28916746,
+          54.68473567
+        ]
+      }
+    },
+    {
+      "id": 579,
+      "type": "Feature",
+      "properties": {
+        "title": "„Nuo Vilniaus iki Tbilisio ir atgal“",
+        "from": "18:15",
+        "fromNumerical": 18.25,
+        "until": "22:15",
+        "untilNumerical": 22.25,
+        "description": "V. Krėvės-Mickevičiaus memorialinis muziejus (Tauro g. 10-1)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/579",
+        "type": "cinema",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/cinema.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27202278,
+          54.68613422
+        ]
+      }
+    },
+    {
+      "id": 581,
+      "type": "Feature",
+      "properties": {
+        "title": "„Atkurtuose kunigaikščio Jonušo Radvilos rūmuose – naujas meno muziejus“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "01:00",
+        "untilNumerical": 1,
+        "description": "Radvilų rūmų muziejus (Vilniaus g. 24)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/581",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29177994,
+          54.68153838
+        ]
+      }
+    },
+    {
+      "id": 583,
+      "type": "Feature",
+      "properties": {
+        "title": "„Skaitymai ir kino klubas“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "21:00",
+        "untilNumerical": 21,
+        "description": "Prancūzų institutas Lietuvoje (Didžioji g. 1)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/583",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28839096,
+          54.68061419
+        ]
+      }
+    },
+    {
+      "id": 585,
+      "type": "Feature",
+      "properties": {
+        "title": "„Naktis prokuratūroje“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "00:00",
+        "untilNumerical": 0,
+        "description": "Rinktinės g. 5A",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/585",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28851837,
+          54.69577386
+        ]
+      }
+    },
+    {
+      "id": 587,
+      "type": "Feature",
+      "properties": {
+        "title": "„Laisvai kabantys garsų dažai“",
+        "from": "20:00",
+        "fromNumerical": 20,
+        "until": "00:00",
+        "untilNumerical": 0,
+        "description": "UMI „Galera“ (Užupio g. 2A)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/587",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2937004,
+          54.6808685
+        ]
+      }
+    },
+    {
+      "id": 589,
+      "type": "Feature",
+      "properties": {
+        "title": "„Votai“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "02:00",
+        "untilNumerical": 2,
+        "description": "Galerija „Terra recognita“  (Stiklių g. 7)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/589",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28668374,
+          54.6799598
+        ]
+      }
+    },
+    {
+      "id": 591,
+      "type": "Feature",
+      "properties": {
+        "title": "Koncertas „Itališkos muzikos galia“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "20:00",
+        "untilNumerical": 20,
+        "description": "Vilniaus Rotušė (Didžioji g. 31)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/591",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28693587,
+          54.67815784
+        ]
+      }
+    },
+    {
+      "id": 593,
+      "type": "Feature",
+      "properties": {
+        "title": "„Naktis su kariuomene“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "00:00",
+        "untilNumerical": 0,
+        "description": "Krašto apsaugos ministerija (Totorių g. 25)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/593",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28262556,
+          54.68296184
+        ]
+      }
+    },
+    {
+      "id": 595,
+      "type": "Feature",
+      "properties": {
+        "title": "„Musica Nocturna“ po Šv. Jonų skliautais",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "23:00",
+        "untilNumerical": 23,
+        "description": "Šv. Jonų bažnyčia (Šv. Jono g. 12)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/595",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28857268,
+          54.68265405
+        ]
+      }
+    },
+    {
+      "id": 597,
+      "type": "Feature",
+      "properties": {
+        "title": "„Izobatorius“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "23:00",
+        "untilNumerical": 23,
+        "description": "Erdvė po stogu šalia ŠMC kavinės (Vokiečių g. 2)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/597",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27491689,
+          54.69295879
+        ]
+      }
+    },
+    {
+      "id": 599,
+      "type": "Feature",
+      "properties": {
+        "title": "„Con tacon“ ",
+        "from": "21:15",
+        "fromNumerical": 21.25,
+        "until": "22:00",
+        "untilNumerical": 22,
+        "description": "Flamenko šokių studija  „Šok Flamenko“ (Jakšto g. 9 - 142)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/599",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2762714,
+          54.68992958
+        ]
+      }
+    },
+    {
+      "id": 601,
+      "type": "Feature",
+      "properties": {
+        "title": "Koncertas „Muzikinė laiko mašina“",
+        "from": "22:00",
+        "fromNumerical": 22,
+        "until": "23:00",
+        "untilNumerical": 23,
+        "description": "Galerija „Kristina Norvilaitė“ (Užupio g. 1)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/601",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29308483,
+          54.68031956
+        ]
+      }
+    },
+    {
+      "id": 603,
+      "type": "Feature",
+      "properties": {
+        "title": "Biblioteka: „Pamiršk tylą“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "00:00",
+        "untilNumerical": 0,
+        "description": "Vilniaus universiteto biblioteka (Universiteto g. 3)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/603",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28751355,
+          54.68280446
+        ]
+      }
+    },
+    {
+      "id": 605,
+      "type": "Feature",
+      "properties": {
+        "title": "Fotografijos paroda „Europos padangė“",
+        "from": "20:00",
+        "fromNumerical": 20,
+        "until": "00:20",
+        "untilNumerical": 0.3333333333333333,
+        "description": "Išganytojo g. 2 / Bokšto g. 4",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/605",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29028997,
+          54.68076615
+        ]
+      }
+    },
+    {
+      "id": 607,
+      "type": "Feature",
+      "properties": {
+        "title": "„Naktinė kaligrafija“",
+        "from": "17:00",
+        "fromNumerical": 17,
+        "until": "22:00",
+        "untilNumerical": 22,
+        "description": "„Ramių Bičių“ MENŲ STUDIJA (Žemaitijos g. 11)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/607",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28127104,
+          54.67771122
+        ]
+      }
+    },
+    {
+      "id": 609,
+      "type": "Feature",
+      "properties": {
+        "title": "„Toli arti“  Lietuvos nacionalinės UNESCO komisijos galerijoje",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "23:00",
+        "untilNumerical": 23,
+        "description": "Lietuvos nacionalinės UNESCO komisijos galerija (Šv. Jono g. 11)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/609",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28817505,
+          54.68215243
+        ]
+      }
+    },
+    {
+      "id": 611,
+      "type": "Feature",
+      "properties": {
+        "title": "„Inovacijų šimtmetis: XIX a. mitybos tradicijos“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "22:00",
+        "untilNumerical": 22,
+        "description": "Žydų kultūros ir informacijos centras (Mėsinių g. 3A)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/611",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28421275,
+          54.67771355
+        ]
+      }
+    },
+    {
+      "id": 613,
+      "type": "Feature",
+      "properties": {
+        "title": "„Senamiesčio paletė“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "00:00",
+        "untilNumerical": 0,
+        "description": "Dirbtuvė/galerija „RA“ (Pranciškonų g. 8)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/613",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28252497,
+          54.67854553
+        ]
+      }
+    },
+    {
+      "id": 615,
+      "type": "Feature",
+      "properties": {
+        "title": "„Symphonia sacra“",
+        "from": "21:30",
+        "fromNumerical": 21.5,
+        "until": "22:30",
+        "untilNumerical": 22.5,
+        "description": "Vilniaus Švč. Mergelės Marijos Ėmimo į dangų bažnyčia (Trakų g. 9/1)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/615",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28123081,
+          54.67948838
+        ]
+      }
+    },
+    {
+      "id": 617,
+      "type": "Feature",
+      "properties": {
+        "title": "„Nuo …izmų iki ūbizmo“ ( Karaliaus Ūbo maršas per Vilnių į Europą…)",
+        "from": "21:00",
+        "fromNumerical": 21,
+        "until": "22:30",
+        "untilNumerical": 22.5,
+        "description": "K. Sirvydo skveras - Pilies g. - Katedros a. - Gedimino pr. - Lukiškių a.",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/617",
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28833598,
+          54.68108559
+        ]
+      }
+    },
+    {
+      "id": 619,
+      "type": "Feature",
+      "properties": {
+        "title": "Klasikinės muzikos naktis Šv. Baltramiejaus bažnyčioje",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "21:00",
+        "untilNumerical": 21,
+        "description": "Šv. Baltramiejaus bažnyčia (Užupio g. 17)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/619",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29754937,
+          54.68056767
+        ]
+      }
+    },
+    {
+      "id": 621,
+      "type": "Feature",
+      "properties": {
+        "title": "„Pasakėlės iš rūsio: hampelmenai, penkiaminutė, bičiulystės korys ir renesanso kinas!“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "00:00",
+        "untilNumerical": 0,
+        "description": "„Senųjų amatų dirbtuvės“ (Savičiaus g. 10)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/621",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2897086,
+          54.67942092
+        ]
+      }
+    },
+    {
+      "id": 671,
+      "type": "Feature",
+      "properties": {
+        "title": "LRT: „Vaizdas. Garsas. Muzika“",
+        "from": "18.00",
+        "fromNumerical": 18,
+        "until": "02.00",
+        "untilNumerical": 2,
+        "description": "Skveras prie S. Neries gimnazijos",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/671",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28133541,
+          54.68140192
+        ]
+      }
+    },
+    {
+      "id": 625,
+      "type": "Feature",
+      "properties": {
+        "title": "„Audrius Bagočius ir juvelyrika“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "22:00",
+        "untilNumerical": 22,
+        "description": "„Užupio galerija“ (Užupio g. 3)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/625",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29451847,
+          54.68056767
+        ]
+      }
+    },
+    {
+      "id": 627,
+      "type": "Feature",
+      "properties": {
+        "title": "„Burbulų stebuklai“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "23:00",
+        "untilNumerical": 23,
+        "description": "Galerija „Aukso Avis“ (Pilies g. 38)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/627",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2892828,
+          54.68151791
+        ]
+      }
+    },
+    {
+      "id": 629,
+      "type": "Feature",
+      "properties": {
+        "title": "„Ramybės meistrai“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "23:00",
+        "untilNumerical": 23,
+        "description": "Žemaitės skveras",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/629",
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28042078,
+          54.68750666
+        ]
+      }
+    },
+    {
+      "id": 631,
+      "type": "Feature",
+      "properties": {
+        "title": "„Gyvoji biblioteka“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "22:00",
+        "untilNumerical": 22,
+        "description": "L. Stuokos - Gucevičiaus skveras",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/631",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28428316,
+          54.68383016
+        ]
+      }
+    },
+    {
+      "id": 633,
+      "type": "Feature",
+      "properties": {
+        "title": "„Kelionė juodai baltoje šviesoje“",
+        "from": "21:00",
+        "fromNumerical": 21,
+        "until": "22:00",
+        "untilNumerical": 22,
+        "description": "„Radisson Blue Astoria“ (Didžioji g. 35/2)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/633",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2872926,
+          54.67750962
+        ]
+      }
+    },
+    {
+      "id": 635,
+      "type": "Feature",
+      "properties": {
+        "title": "„Žalia šviesa informacijai!“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "21:00",
+        "untilNumerical": 21,
+        "description": "Skroblų g. 10",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/635",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.25665641,
+          54.66985045
+        ]
+      }
+    },
+    {
+      "id": 637,
+      "type": "Feature",
+      "properties": {
+        "title": "Baltarusiško bliuzo ir meno vakaras",
+        "from": "20:00",
+        "fromNumerical": 20,
+        "until": "00:00",
+        "untilNumerical": 0,
+        "description": "„Užupio kavinė“ (Užupio g. 2)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/637",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29361725,
+          54.68035677
+        ]
+      }
+    },
+    {
+      "id": 639,
+      "type": "Feature",
+      "properties": {
+        "title": "Slaptas knygynas „Juodas šuo“",
+        "from": "18:00",
+        "fromNumerical": 18,
+        "until": "23:00",
+        "untilNumerical": 23,
+        "description": "Tauro g. 10-3",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/639",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27190208,
+          54.68600584
+        ]
+      }
+    },
+    {
+      "id": 641,
+      "type": "Feature",
+      "properties": {
+        "title": "„Imaginary star life“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "23:00",
+        "untilNumerical": 23,
+        "description": "Lietuvos teatro, muzikos ir kino muziejus (Vilniaus g. 41)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/641",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28125763,
+          54.68089765
+        ]
+      }
+    },
+    {
+      "id": 643,
+      "type": "Feature",
+      "properties": {
+        "title": "„Akivarų Skveras“",
+        "from": "20:00",
+        "fromNumerical": 20,
+        "until": "02:00",
+        "untilNumerical": 2,
+        "description": "Baro „AKIVARAI“ vidinis kiemas (A. Jakšto g. 5)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/643",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27619362,
+          54.68943905
+        ]
+      }
+    },
+    {
+      "id": 645,
+      "type": "Feature",
+      "properties": {
+        "title": "„Krikščionių vienybė“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "02:00",
+        "untilNumerical": 2,
+        "description": "Knygynas „Katalikų pasaulis“ (Šventaragio g. 4)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/645",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28660059,
+          54.68461659
+        ]
+      }
+    },
+    {
+      "id": 647,
+      "type": "Feature",
+      "properties": {
+        "title": "Džiazas po atviru dangumi: „Light Jazz Trio“",
+        "from": "20:00",
+        "fromNumerical": 20,
+        "until": "22:00",
+        "untilNumerical": 22,
+        "description": "Svetainė-baras „Veranda“ (Kęstučio g. 39)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/647",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.25112033,
+          54.69386782
+        ]
+      }
+    },
+    {
+      "id": 649,
+      "type": "Feature",
+      "properties": {
+        "title": "Spektaklis, detektyvinė komedija „8 mylinčios moterys“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "21:30",
+        "untilNumerical": 21.5,
+        "description": "Vilniaus įgulos karininkų ramovė (Pamėnkalnio g. 13)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/649",
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27261019,
+          54.68700557
+        ]
+      }
+    },
+    {
+      "id": 651,
+      "type": "Feature",
+      "properties": {
+        "title": "Eksperimentinė Archeologija - „Tiltas į praeitį“",
+        "from": "21:00",
+        "fromNumerical": 21,
+        "until": "01:00",
+        "untilNumerical": 1,
+        "description": "Lazdynų Pelėdos skveras  ",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/651",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28561354,
+          54.67553696
+        ]
+      }
+    },
+    {
+      "id": 653,
+      "type": "Feature",
+      "properties": {
+        "title": "„Šaudyklėlė dailiai šauna, plonu siūlu neužgauna“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "01:00",
+        "untilNumerical": 1,
+        "description": "Vilniaus dailės akademijos, Anastazijos ir Antano Tamošaičių galerija „Židinys“ (Dominikonų g. 15/1)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/653",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28486252,
+          54.67700716
+        ]
+      }
+    },
+    {
+      "id": 655,
+      "type": "Feature",
+      "properties": {
+        "title": "Koncertas: „PLT“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "21:30",
+        "untilNumerical": 21.5,
+        "description": "Naugarduko g. 76 ",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/655",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.26047587,
+          54.67060489
+        ]
+      }
+    },
+    {
+      "id": 657,
+      "type": "Feature",
+      "properties": {
+        "title": "„Rašytojų kiemas atsiveria poezijai“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "20:30",
+        "untilNumerical": 20.5,
+        "description": "„Lietuvos rašytojų sąjungos“ leidyklos kiemelis (K. Sirvydo g. 6)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/657",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28302789,
+          54.68731565
+        ]
+      }
+    },
+    {
+      "id": 659,
+      "type": "Feature",
+      "properties": {
+        "title": "Spektaklis „Paskutinis Teismas“",
+        "from": "23:27",
+        "fromNumerical": 23.45,
+        "until": "00:02",
+        "untilNumerical": 0.03333333333333333,
+        "description": "Gedimino kalno rytinė papėdė",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/659",
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29287696,
+          54.68663346
+        ]
+      }
+    },
+    {
+      "id": 661,
+      "type": "Feature",
+      "properties": {
+        "title": "Teatralizuotas šou „KORSETAI IR BIUSTHALTERIAI: Aukso amžiaus moterų apatinių drabužių mada“",
+        "from": "21:00",
+        "fromNumerical": 21,
+        "until": "23:00",
+        "untilNumerical": 23,
+        "description": "Antikvaro salono „Braškės Butukas“ kiemelis (Pilies g. 32)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/661",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28940082,
+          54.68294944
+        ]
+      }
+    },
+    {
+      "id": 663,
+      "type": "Feature",
+      "properties": {
+        "title": "„Tradicinių švilpynių dirbtuvės“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "21:00",
+        "untilNumerical": 21,
+        "description": "Pranciškonų g. 6",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/663",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.281955,
+          54.67912861
+        ]
+      }
+    },
+    {
+      "id": 665,
+      "type": "Feature",
+      "properties": {
+        "title": "„Naktis puodžiaus dirbtuvėse“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "21:00",
+        "untilNumerical": 21,
+        "description": "S. Skapo g. 3-34",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/665",
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28770566,
+          54.6839418
+        ]
+      }
+    },
+    {
+      "id": 667,
+      "type": "Feature",
+      "properties": {
+        "title": "„Žodžiai Žodžiai Žodžiai“ ",
+        "from": "?",
+        "fromNumerical": 0,
+        "until": "?",
+        "untilNumerical": 30,
+        "description": "Knygynas - arbatinė „Mint Vinetu“ (Šv. Ignoto g. 16)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/667",
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28500199,
+          54.68141123
+        ]
+      }
+    },
+    {
+      "id": 673,
+      "type": "Feature",
+      "properties": {
+        "title": "„DINA“",
+        "from": "21:00",
+        "fromNumerical": 21,
+        "until": "22:00",
+        "untilNumerical": 22,
+        "description": "Kultūros baras „Kablys“ (Kauno g. 5); antrojo aukšto salė.",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/673",
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27736038,
+          54.67309892
+        ]
+      }
+    },
+    {
+      "id": 675,
+      "type": "Feature",
+      "properties": {
+        "title": "„5 / 5 / TAMSU“",
+        "from": "19:00",
+        "fromNumerical": 19,
+        "until": "21:30",
+        "untilNumerical": 21.5,
+        "description": "Planetariumas (Konstitucijos pr. 12a) ",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/675",
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27804434,
+          54.69375869
+        ]
+      }
+    },
+    {
+      "id": 679,
+      "type": "Feature",
+      "properties": {
+        "title": "Band’as bus!",
+        "from": "21:00",
+        "fromNumerical": 21,
+        "until": "02:00",
+        "untilNumerical": 2,
+        "description": "Vilnius Natų knygynas (Totorių g. 20)",
+        "link": "http://www.kulturosnaktis.lt/lt/projects/view/679",
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28259605,
+          54.68432633
+        ]
+      }
+    },
+    {
+      "id": 133713371337,
+      "type": "Feature",
+      "properties": {
+        "title": "„Coffee Inn“ kavinė Gedimino pr. 2 (Kavateka)",
+        "from": "?",
+        "fromNumerical": 0,
+        "until": "?",
+        "untilNumerical": 30,
+        "description": "„Coffee Inn“ kavinė Gedimino pr. 2 (Kavateka)",
+        "link": "http://www.kulturosnaktis.lt",
+        "type": "information",
+        "icon": "http://www.kulturosnaktis.lt/images/map/r/information.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28406858,
+          54.68619934
+        ]
+      }
+    },
+    {
+      "id": 133713371338,
+      "type": "Feature",
+      "properties": {
+        "title": "„Coffee Inn“ kavinė Lukiškių a. (Coffee Box)",
+        "from": "?",
+        "fromNumerical": 0,
+        "until": "?",
+        "untilNumerical": 30,
+        "description": "„Coffee Inn“ kavinė Lukiškių a. (Coffee Box)",
+        "link": "http://www.kulturosnaktis.lt",
+        "type": "information",
+        "icon": "http://www.kulturosnaktis.lt/images/map/r/information.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27158022,
+          54.68872961
+        ]
+      }
+    },
+    {
+      "id": 133713371339,
+      "type": "Feature",
+      "properties": {
+        "title": "„Coffee Inn“ kavinė Vokiečių g. 18",
+        "from": "?",
+        "fromNumerical": 0,
+        "until": "?",
+        "untilNumerical": 30,
+        "description": "„Coffee Inn“ kavinė Vokiečių g. 18",
+        "link": "http://www.kulturosnaktis.lt",
+        "type": "information",
+        "icon": "http://www.kulturosnaktis.lt/images/map/r/information.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27930498,
+          54.68624895
+        ]
+      }
+    },
+    {
+      "id": 133713371340,
+      "type": "Feature",
+      "properties": {
+        "title": "„Coffee Inn“ kavinė Vilniaus g. 17",
+        "from": "?",
+        "fromNumerical": 0,
+        "until": "?",
+        "untilNumerical": 30,
+        "description": "„Coffee Inn“ kavinė Vilniaus g. 17",
+        "link": "http://www.kulturosnaktis.lt",
+        "type": "information",
+        "icon": "http://www.kulturosnaktis.lt/images/map/r/information.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28368235,
+          54.67890531
+        ]
+      }
+    },
+    {
+      "id": 133713371341,
+      "type": "Feature",
+      "properties": {
+        "title": "„Coffee Inn“ kavinė Pilies g. 3",
+        "from": "?",
+        "fromNumerical": 0,
+        "until": "?",
+        "untilNumerical": 30,
+        "description": "„Coffee Inn“ kavinė Pilies g. 3",
+        "link": "http://www.kulturosnaktis.lt",
+        "type": "information",
+        "icon": "http://www.kulturosnaktis.lt/images/map/r/information.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28930426,
+          54.6842395
+        ]
+      }
+    }
+  ]
+}

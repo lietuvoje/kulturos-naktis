@@ -1,27 +1,30 @@
 ﻿<!DOCTYPE html>
 <html>
   <head>
-    <title>Kultūros Naktis 2014</title>
+    <title>Kultūros Naktis</title>
 
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
 
-    <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="assets/jquery-2.1.1.min.js"></script>
 
     <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/bootstrap-3.1.1.min.css">
 
     <!-- Optional theme -->
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="assets/bootstrap-theme-3.1.1.min.css">
 
     <!-- Latest compiled and minified JavaScript -->
-    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <script src="assets/bootstrap-3.1.1.min.js"></script>
 
     <style type="text/css">
       html { height: 100% }
       body { height: 100%; margin: 0; padding: 0 }
       #map-canvas { height: 100% }
-      #controls button {
-        margin: 5px;
+      #controls {
+        margin: 7px;
+      }
+      #controls .btn {
+        margin: 5px 5px 0px 0px;
       }
       #layers { display: none; }
       button a, button a:hover, button a:visited { color: white; }
@@ -48,6 +51,11 @@
     <script type="text/javascript">
       var map = null;
       var disabledTypes = [];
+
+      var dataFile = {
+        2014: "2014",
+        2015: "2015"
+      }[location.search.split('?')[1]] || "2015";
 
       $(function() {
         createMap();
@@ -102,13 +110,16 @@
             }
           });
         });
+
+        $('#controls #data-' + dataFile).removeClass('btn-default').addClass('btn-primary');
       }
 
       function createLayers() {
-        map.data.loadGeoJson('data.geojson');
+        map.data.loadGeoJson('data' + dataFile + '.geojson', null, function(data) {
+          $("#view-from").trigger("change");
+        });
 
         map.data.addListener('click', function(event) {
-          console.log(event.feature);
           $('#modal #title').text(event.feature.getProperty("title"));
           $('#modal #time').text(
             event.feature.getProperty("from") +
@@ -126,23 +137,39 @@
 
           return {
             visible: visible,
-            icon: "http://www.kulturosnaktis.lt/images/map/g/" + feature.getProperty("type") + ".png"
+            icon: feature.getProperty("icon")
           };
         });
       }
 
       function createSlider() {
         $("#view-from").change(function(evt) {
-          console.log( "Handler for .change() called.");
-          var eventsStart = 11;
-          var eventsEnd = 3;
-          var selectedTime = evt.currentTarget.value / 100 * (24 - eventsStart + eventsEnd) + eventsStart;
+          var eventsStart = 100;
+          var eventsEnd = 0;
 
-          $("#selected-time").text(Math.floor(selectedTime > 24 ? selectedTime - 24 : selectedTime));
+          map.data.forEach(function(feature) {
+            var startsAt = feature.getProperty("fromNumerical");
+            var endsAt = feature.getProperty("untilNumerical");
+            if (startsAt < 10) {
+              startsAt += 24;
+            }
+            if (endsAt < 10) {
+              endsAt += 24;
+            }
+            if (startsAt < eventsStart) {
+              eventsStart = startsAt;
+            }
+            if (endsAt > eventsEnd) {
+              eventsEnd = endsAt;
+            }
+          });
+
+          var selectedTime = Math.floor(evt.currentTarget.value / 100 * (eventsEnd - eventsStart) + eventsStart);
+          $("#selected-time").text(selectedTime > 24 ? selectedTime - 24 : selectedTime);
 
           map.data.forEach(function(feature) {
             var endsAt = feature.getProperty("untilNumerical")
-            if (endsAt < eventsStart) {
+            if (endsAt < 10) {
               endsAt += 24;
             }
             feature.setProperty("disabled", selectedTime > endsAt);
@@ -165,6 +192,10 @@
       <button type="button" class="btn btn-primary btn-xs">
         <a target="_blank" href="https://github.com/lietuvoje/kulturos-naktis">Prisidėk!</a>
       </button>
+      <div>
+        <a id="data-2014" href="?2014" class="btn btn-default btn-xs" role="button">2014</a>
+        <a id="data-2015" href="?2015" class="btn btn-default btn-xs" role="button">2015</a>
+      </div>
     </div>
 
     <ul id="layers" class="list-group">

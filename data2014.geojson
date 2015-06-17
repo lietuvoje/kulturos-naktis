@@ -12,7 +12,8 @@
         "untilNumerical": 2,
         "description": "S. Daukanto a. 3, LR prezidentūros pastato priekinis fasadas ir jo prieigos",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/213",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +34,8 @@
         "untilNumerical": 2,
         "description": "Valdovų rūmai, Katedros a. 4",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/216",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -54,7 +56,8 @@
         "untilNumerical": 2,
         "description": "LR Prezidentūros rūmų kiemas, S. Daukanto a. 3",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/217",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +78,8 @@
         "untilNumerical": 2,
         "description": "Neries krantinė tarp Karaliaus Mindaugo ir Žaliojo tiltų",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/218",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +100,8 @@
         "untilNumerical": 2,
         "description": "Vilniaus sporto rūmų fasadas",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/219",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +122,8 @@
         "untilNumerical": 0,
         "description": "Bernardinų sodas, Maironio g.",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/220",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -138,7 +144,8 @@
         "untilNumerical": 2,
         "description": "Lietuvos teatro, muzikos ir kino muziejaus kiemas, Vilniaus g. 41",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/221",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +166,8 @@
         "untilNumerical": 1,
         "description": "Lukiškių aikštė",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/222",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -180,7 +188,8 @@
         "untilNumerical": 2,
         "description": "Klubo „Soulbox“ terasa ir baro erdvė, Vilniaus g. 33 / Palangos g. 4",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/223",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +210,8 @@
         "untilNumerical": 23.333333333333332,
         "description": "Vilniaus Šv.Kotrynos bažnyčia, Vilniaus g. 30",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/224",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -222,7 +232,8 @@
         "untilNumerical": 2,
         "description": "Baltas tiltas",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/225",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +254,8 @@
         "untilNumerical": 0,
         "description": "Geležinio Vilko tunelis",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/226",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -264,7 +276,8 @@
         "untilNumerical": 20,
         "description": "21:00 - 22:00 val.",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/227",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -285,7 +298,8 @@
         "untilNumerical": 23,
         "description": "Nuo Aušros Vartų g. 14 (Aušros Vartų) iki  Etmonų g. 6 („Bix“ baro)",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/229",
-        "type": "theater"
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
       },
       "geometry": {
         "type": "Point",
@@ -306,7 +320,8 @@
         "untilNumerical": 1,
         "description": "Senoji ledainė („Rotonda“) Gedimino kalno papėdėje į Šventaragio gatvės pusę",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/230",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -327,7 +342,8 @@
         "untilNumerical": 0,
         "description": "Menų spaustuvė, Šiltadaržio g. 6",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/231",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -348,7 +364,8 @@
         "untilNumerical": 0,
         "description": "ŠMC kiemelyje, Vokiečių g. 2 / Rūdninkų g. 1",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/232",
-        "type": "cinema"
+        "type": "cinema",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/cinema.png"
       },
       "geometry": {
         "type": "Point",
@@ -369,7 +386,8 @@
         "untilNumerical": 21,
         "description": "Valstybinis jaunimo teatras, „Salė 99“, Arklių g. 5",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/233",
-        "type": "theater"
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
       },
       "geometry": {
         "type": "Point",
@@ -390,7 +408,8 @@
         "untilNumerical": 20,
         "description": "Vilniaus teatras „Lėlė“, Didžioji salė, Arklių g. 5",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/234",
-        "type": "theater"
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +430,8 @@
         "untilNumerical": 23,
         "description": "OKT Studija, Ašmenos g. 8",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/235",
-        "type": "theater"
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
       },
       "geometry": {
         "type": "Point",
@@ -432,7 +452,8 @@
         "untilNumerical": 20,
         "description": "Šv. Kotrynos bažnyčia, Vilniaus g. 30",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/236",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -453,7 +474,8 @@
         "untilNumerical": 21.5,
         "description": "Vilniaus Rotušė, Didžioji g. 31",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/237",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -474,7 +496,8 @@
         "untilNumerical": 22,
         "description": "Švedijos ambasados kiemelis, Didžioji g. 16",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/238",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -495,7 +518,8 @@
         "untilNumerical": 21,
         "description": "Gedimino pr. 1, 2 aukštas",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/239",
-        "type": "cinema"
+        "type": "cinema",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/cinema.png"
       },
       "geometry": {
         "type": "Point",
@@ -516,7 +540,8 @@
         "untilNumerical": 20,
         "description": "Birutės g. 16",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/240",
-        "type": "cinema"
+        "type": "cinema",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/cinema.png"
       },
       "geometry": {
         "type": "Point",
@@ -537,7 +562,8 @@
         "untilNumerical": 2,
         "description": "Rūdininkų parkelis",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/241",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -558,7 +584,8 @@
         "untilNumerical": 21,
         "description": "Lietuvos parodų ir kongresų centras LITEXPO, Laivės pr. 5",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/242",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -579,7 +606,8 @@
         "untilNumerical": 2,
         "description": "Gatvė ties Gedimino pr. 5",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/243",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -600,7 +628,8 @@
         "untilNumerical": 20,
         "description": "Prancūzų instituto Lietuvoje parodų salė, Didžioji g. 1",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/244",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +650,8 @@
         "untilNumerical": 19.25,
         "description": "J. Heifeco salė, Lietuvos žydų bendruomenės namai, Pylimo g. 4",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/245",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -642,7 +672,8 @@
         "untilNumerical": 1,
         "description": "Salomėjos Neries skverelis, Vilniaus g. 32",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/246",
-        "type": "cinema"
+        "type": "cinema",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/cinema.png"
       },
       "geometry": {
         "type": "Point",
@@ -663,7 +694,8 @@
         "untilNumerical": 2,
         "description": "Prie pėsčiųjų tilto į Vingio parką, Birutės g. 20, Žvėrynas",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/247",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -684,7 +716,8 @@
         "untilNumerical": 22.366666666666667,
         "description": "Venclovų namai - muziejus, Pamėnkalnio g. 34",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/248",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -705,7 +738,8 @@
         "untilNumerical": 23,
         "description": "Tauro g. 10-3",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/249",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -726,7 +760,8 @@
         "untilNumerical": 0,
         "description": "Lietuvos teatro, muzikos ir kino muziejus, Vilniaus g. 41",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/250",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -747,7 +782,8 @@
         "untilNumerical": 1,
         "description": "VDA tekstilės galerija-dirbtuvės „ArtiFex“, Gaono g. 1",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/251",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -768,7 +804,8 @@
         "untilNumerical": 0,
         "description": "Šiuolaikinio meno centras, Vokiečių g. 2",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/252",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -789,7 +826,8 @@
         "untilNumerical": 23,
         "description": "00:00 - 01:00 val.",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/253",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -810,7 +848,8 @@
         "untilNumerical": 22,
         "description": "Valdovų rūmai, Katedros a. 4",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/254",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -831,7 +870,8 @@
         "untilNumerical": 0,
         "description": "Pinigų muziejus, Totorių g. 2/8",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/255",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -852,7 +892,8 @@
         "untilNumerical": 21,
         "description": "Lietuvos nacionalinis muziejus, Naujasis arsenalas, Arsenalo g. 1",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/256",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -873,7 +914,8 @@
         "untilNumerical": 0,
         "description": "Gedimino pr. 2A, 3 aukštas",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/257",
-        "type": "dancinghall"
+        "type": "dancinghall",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/dancinghall.png"
       },
       "geometry": {
         "type": "Point",
@@ -894,7 +936,8 @@
         "untilNumerical": 2,
         "description": "Kultūros baras „Kablys“, Kauno g. 5",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/258",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -915,7 +958,8 @@
         "untilNumerical": 1,
         "description": "Vilniaus paveikslų galerija, Didžioji g. 4",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/259",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -936,7 +980,8 @@
         "untilNumerical": 22,
         "description": "Planetariumas, Žvaigždžių salė, Konstitucijos pr.12A",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/260",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -957,7 +1002,8 @@
         "untilNumerical": 20,
         "description": "Šv. Jonų bažnyčia, Šv. Jono g. 12",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/261",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -978,7 +1024,8 @@
         "untilNumerical": 0,
         "description": "K. Sirvydo g. 4, įėjimas nuo V. Kudirkos aikštės pusės (tarp LR Vyriausybės ir PC „GO9“)",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/262",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -999,7 +1046,8 @@
         "untilNumerical": 1,
         "description": "Radvilų rūmų muziejus, Vilniaus g. 24",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/263",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -1020,7 +1068,8 @@
         "untilNumerical": 0,
         "description": "Galerija  „Aukso avis“, Pilies g. 38",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/264",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -1041,7 +1090,8 @@
         "untilNumerical": 0,
         "description": "Marijos ir Jurgio Šlapelių namo-muziejaus galerija ir rūsys, Pilies g. 40",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/265",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -1062,7 +1112,8 @@
         "untilNumerical": 23.5,
         "description": "Lietuvos nacionalinio dramos teatro fojė, Gedimino pr. 4",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/266",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -1083,7 +1134,8 @@
         "untilNumerical": 2,
         "description": "DSG/Dailininkų sąjungos galerija, Vokiečių g. 2",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/267",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -1104,7 +1156,8 @@
         "untilNumerical": 21.75,
         "description": "21:45 - 22:30 val.",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/268",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -1125,7 +1178,8 @@
         "untilNumerical": 0,
         "description": "Vytauto Kasiulio dailės muziejus, A.Goštauto. 1",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/269",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -1146,7 +1200,8 @@
         "untilNumerical": 23,
         "description": "K.Varnelio namai-muziejus, Didžioji g. 26",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/270",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -1167,7 +1222,8 @@
         "untilNumerical": 23,
         "description": "M. K. Čiurlionio namai, Savičiaus g. 11",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/271",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -1188,7 +1244,8 @@
         "untilNumerical": 23,
         "description": "Galerija „ARKA“, Aušros Vartų g. 7",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/272",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -1209,7 +1266,8 @@
         "untilNumerical": 1,
         "description": "K. Sirvydo g. 4, įėjimas nuo V. Kudirkos aikštės pusės (tarp LR Vyriausybės ir PC „GO9“)",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/273",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -1230,7 +1288,8 @@
         "untilNumerical": 2,
         "description": "Šventaragio slėnis, prie Valdovų rūmų",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/274",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -1251,7 +1310,8 @@
         "untilNumerical": 1,
         "description": "VDA parodų salės",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/275",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -1272,7 +1332,8 @@
         "untilNumerical": 1,
         "description": "Vilniaus dailės akademija, „Titaniko“ ekspozicijų salė (1 aukštas), Maironio g. 3",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/276",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -1293,7 +1354,8 @@
         "untilNumerical": 1,
         "description": "Vilniaus dailės akademija, Maironio g. 3",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/277",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -1314,7 +1376,8 @@
         "untilNumerical": 2,
         "description": "Latako g. 2",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/278",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -1335,7 +1398,8 @@
         "untilNumerical": 2,
         "description": "K. Sirvydo skveras",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/279",
-        "type": "dancinghall"
+        "type": "dancinghall",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/dancinghall.png"
       },
       "geometry": {
         "type": "Point",
@@ -1356,7 +1420,8 @@
         "untilNumerical": 21,
         "description": "Vilniaus dailės akademijos naujieji rūmai (holas), Malūnų g. 5",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/280",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -1377,7 +1442,8 @@
         "untilNumerical": 1,
         "description": "Reformatų parkelis",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/281",
-        "type": "theater"
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
       },
       "geometry": {
         "type": "Point",
@@ -1398,7 +1464,8 @@
         "untilNumerical": 21.5,
         "description": "Lietuvos rusų dramos teatro Didžioji salė, J. Basanavičiaus g. 13",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/282",
-        "type": "theater"
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
       },
       "geometry": {
         "type": "Point",
@@ -1419,7 +1486,8 @@
         "untilNumerical": 21.5,
         "description": "Teatro salė, Vilniaus universitetas, Universiteto g. 3",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/283",
-        "type": "theater"
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
       },
       "geometry": {
         "type": "Point",
@@ -1440,7 +1508,8 @@
         "untilNumerical": 22,
         "description": "Šv. Kazimiero bažnyčia, Didžioji g. 34",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/284",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -1461,7 +1530,8 @@
         "untilNumerical": 23,
         "description": "Šv. Jonų bažnyčia, Šv. Jono g. 12",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/285",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -1482,7 +1552,8 @@
         "untilNumerical": 0,
         "description": "A. Strazdelio g. 1",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/286",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -1503,7 +1574,8 @@
         "untilNumerical": 22,
         "description": "Tauro Kalnas, V. Mykolaičio-Putino g. 5",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/287",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -1524,7 +1596,8 @@
         "untilNumerical": 0,
         "description": "Senųjų amatų dirbtuvės, Savičiaus g. 10",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/288",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -1545,7 +1618,8 @@
         "untilNumerical": 1,
         "description": "Prospekto fotografijos galerija, Gedimino pr. 43",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/290",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -1566,7 +1640,8 @@
         "untilNumerical": 2,
         "description": "Tibeto skveras, Malūnų g., Užupis",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/291",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -1587,7 +1662,8 @@
         "untilNumerical": 1,
         "description": "Rūmai ant Tauro kalno, V. Mykolaičio-Putino g.",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/292",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -1608,7 +1684,8 @@
         "untilNumerical": 23.5,
         "description": "Požeminė automobilių stovėjimo aikštelė Gedimino prospekte (prie V. Kudirkos aikštės)",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/293",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -1629,7 +1706,8 @@
         "untilNumerical": 21,
         "description": "„ČiopČiop“, Žvejų g. 2",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/294",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -1650,7 +1728,8 @@
         "untilNumerical": 2,
         "description": "V. Kudirkos aikštė, prie paminklo",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/295",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -1671,7 +1750,8 @@
         "untilNumerical": 0.3333333333333333,
         "description": "Bokšto g. 4/2",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/296",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -1692,7 +1772,8 @@
         "untilNumerical": 23,
         "description": "Viešbučio „Amberton“ restorano langai, Odminių skveras",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/297",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -1713,7 +1794,8 @@
         "untilNumerical": 30,
         "description": "Žaislų muziejus, Šiltadaržio g. 2",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/298",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -1734,7 +1816,8 @@
         "untilNumerical": 30,
         "description": "(AV17) galerija, Aušros Vartų g. 17",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/299",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -1755,7 +1838,8 @@
         "untilNumerical": 2,
         "description": "Gedimino pr. 27",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/300",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -1776,7 +1860,8 @@
         "untilNumerical": 0,
         "description": "VDA naujieji rūmai, Malūnų g. 5",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/301",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -1797,7 +1882,8 @@
         "untilNumerical": 2,
         "description": "K. Sirvydo skveras",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/302",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -1818,7 +1904,8 @@
         "untilNumerical": 0,
         "description": "Vilniaus universiteto biblioteka, Universiteto g. 3",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/303",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -1839,7 +1926,8 @@
         "untilNumerical": 1,
         "description": "Užupio meno inkubatorius, Užupio g. 2a",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/304",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -1860,7 +1948,8 @@
         "untilNumerical": 22,
         "description": "Ekskursijos pradžios vieta- Šatrijos Raganos skveras (Arklių g.)",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/305",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -1881,7 +1970,8 @@
         "untilNumerical": 0,
         "description": "Vilniaus uostas, prie Karaliaus Mindaugo tilto",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/306",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -1902,7 +1992,8 @@
         "untilNumerical": 22.25,
         "description": "22:15 - 22:30 val.",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/307",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -1923,7 +2014,8 @@
         "untilNumerical": 0,
         "description": "Vilniaus įgulos karininkų ramovė, Pamėnkalnio g. 13",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/308",
-        "type": "theater"
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
       },
       "geometry": {
         "type": "Point",
@@ -1944,7 +2036,8 @@
         "untilNumerical": 19.5,
         "description": "Šiltadaržio g., Katedros aikštė, Bernardinų sodas",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/309",
-        "type": "theater"
+        "type": "theater",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/theater.png"
       },
       "geometry": {
         "type": "Point",
@@ -1965,7 +2058,8 @@
         "untilNumerical": 23,
         "description": "Taikomosios dailės muziejus, Arsenalo g. 3A",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/311",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -1986,7 +2080,8 @@
         "untilNumerical": 22,
         "description": "Pamėnkalnio g. 13",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/312",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -2007,7 +2102,8 @@
         "untilNumerical": 1,
         "description": "Pilies g. 15, 2 aukšto langai",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/313",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -2028,7 +2124,8 @@
         "untilNumerical": 23.5,
         "description": "V. Krėvės-Mickevičiaus memorialinis muziejus, Tauro g.10-1",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/314",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -2049,7 +2146,8 @@
         "untilNumerical": 0,
         "description": "Barža, prie Baltojo tilto",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/315",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -2070,7 +2168,8 @@
         "untilNumerical": 2,
         "description": "Vilniaus mokytojų namų kiemelis, Vilniaus g. 39",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/316",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -2091,7 +2190,8 @@
         "untilNumerical": 21,
         "description": "Vilniaus mokytojų namų Mažoji salė (2 aukštas), Vilniaus g. 39",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/317",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -2112,7 +2212,8 @@
         "untilNumerical": 23,
         "description": "Pranciškonų g. 6 ir S. Skapo g. 3-34",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/318",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -2133,7 +2234,8 @@
         "untilNumerical": 23.5,
         "description": "Prie prekybos centro „Centro pasažas“ pagrindinio įėjimo, Vilniaus g.10",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/319",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -2154,7 +2256,8 @@
         "untilNumerical": 2,
         "description": "Kalnų parkas",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/320",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -2175,7 +2278,8 @@
         "untilNumerical": 0,
         "description": "prie „Dailu“ studijos, Bernardinų g. 10",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/321",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -2196,7 +2300,8 @@
         "untilNumerical": 2,
         "description": "Vidinis kiemas, A. Jakšto g. 5",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/322",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -2217,7 +2322,8 @@
         "untilNumerical": 20,
         "description": "Lietuvos nacionalinė UNESCO komisija, Šv. Jono g. 11",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/323",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -2238,7 +2344,8 @@
         "untilNumerical": 21.5,
         "description": "Edukacijos, rezidencijų ir parodų centras „Rupert“, Meškeriotojų g. 33, Valakampiai",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/324",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -2259,7 +2366,8 @@
         "untilNumerical": 1,
         "description": "Šv. Mykolo g. 4",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/325",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -2280,7 +2388,8 @@
         "untilNumerical": 22,
         "description": "„Ramių Bičių“ menų studija, Žemaitijos g. 11",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/326",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -2301,7 +2410,8 @@
         "untilNumerical": 22,
         "description": "Galerija „Šofar“, Mėsinių g. 3a/5",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/327",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -2322,7 +2432,8 @@
         "untilNumerical": 23.333333333333332,
         "description": "23:30 - 00:20 val.",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/328",
-        "type": "dancinghall"
+        "type": "dancinghall",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/dancinghall.png"
       },
       "geometry": {
         "type": "Point",
@@ -2343,7 +2454,8 @@
         "untilNumerical": 22,
         "description": "Lukiškių aikštė, prie „Coffee Inn“ lauko kavinės",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/329",
-        "type": "dancinghall"
+        "type": "dancinghall",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/dancinghall.png"
       },
       "geometry": {
         "type": "Point",
@@ -2364,7 +2476,8 @@
         "untilNumerical": 0,
         "description": "NDG kiemas, Konstitucijos pr. 22",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/330",
-        "type": "dancinghall"
+        "type": "dancinghall",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/dancinghall.png"
       },
       "geometry": {
         "type": "Point",
@@ -2385,7 +2498,8 @@
         "untilNumerical": 23.666666666666668,
         "description": "„Beepart” kūrybinės dirbtuvės, Pilaitė",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/331",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -2406,7 +2520,8 @@
         "untilNumerical": 1,
         "description": "„Eika verslo centro” daugiaaukštės automobilių stovėjimo aikštelės 3 aukštas. Tarp A. Goštauto g. 40A ir A. Goštauto g. 40B pastatų",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/332",
-        "type": "cinema"
+        "type": "cinema",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/cinema.png"
       },
       "geometry": {
         "type": "Point",
@@ -2427,7 +2542,8 @@
         "untilNumerical": 22.5,
         "description": "ON27, Mindaugo g. 27",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/333",
-        "type": "cinema"
+        "type": "cinema",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/cinema.png"
       },
       "geometry": {
         "type": "Point",
@@ -2448,7 +2564,8 @@
         "untilNumerical": 0,
         "description": "Lietuvos architektų sąjungos būstinė, Kalvarijų g. 1",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/334",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -2469,7 +2586,8 @@
         "untilNumerical": 21,
         "description": "Skroblų g. 10",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/335",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -2490,7 +2608,8 @@
         "untilNumerical": 30,
         "description": "Totorių g. 25/3 (įėjimas iš Benediktinių g. pusės)",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/336",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -2511,7 +2630,8 @@
         "untilNumerical": 22,
         "description": "Pradžia - Tymo turgus, kelionė - Užupio g., Pilies g., Šv. Jono g., Vilniaus g., Gedimino pr. Pabaiga - Tauro kalnas",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/337",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -2532,7 +2652,8 @@
         "untilNumerical": 0,
         "description": "Raugyklos g. 15",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/338",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -2553,7 +2674,8 @@
         "untilNumerical": 21,
         "description": "Tautodailininkų dirbtuvės, J.Basanavičiaus g. 29",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/339",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -2574,7 +2696,8 @@
         "untilNumerical": 23,
         "description": "Galerija „Kristina Norvilaitė“, Užupio g. 1",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/340",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -2595,7 +2718,8 @@
         "untilNumerical": 22,
         "description": "Pranciškonų Rūmų parkelis",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/341",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -2616,7 +2740,8 @@
         "untilNumerical": 21,
         "description": "Šv. Jonų bažnyčia, Šv. Jono g.12",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/342",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -2637,7 +2762,8 @@
         "untilNumerical": 30,
         "description": "Totorių g. 7",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/344",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -2658,7 +2784,8 @@
         "untilNumerical": 1,
         "description": "Rūmai ant Tauro kalno, V.Mykolaičio-Putino g. 5",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/345",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -2679,7 +2806,8 @@
         "untilNumerical": 23,
         "description": "Galerija „Kalnas“, Krivių g.10",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/346",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -2700,7 +2828,8 @@
         "untilNumerical": 23,
         "description": "LTMKS projektų erdvė „Malonioji 6”, Malonioji g. 6",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/347",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -2721,7 +2850,8 @@
         "untilNumerical": 23,
         "description": "Galerija „terra recognita“, Stiklių g. 7",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/348",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -2742,7 +2872,8 @@
         "untilNumerical": 21.5,
         "description": "Drakono pieva – Krokuvos / Giedraičių g. sankryža",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/349",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -2763,7 +2894,8 @@
         "untilNumerical": 1,
         "description": "Dominikonų g. 15/1",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/350",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -2784,7 +2916,8 @@
         "untilNumerical": 0,
         "description": "Augustijonų g. 8/10",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/351",
-        "type": "publicart"
+        "type": "publicart",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/publicart.png"
       },
       "geometry": {
         "type": "Point",
@@ -2805,7 +2938,8 @@
         "untilNumerical": 23,
         "description": "Gyvos muzikos klubas „Artistai“, Šv. Kazimiero g. 3",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/352",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -2826,7 +2960,8 @@
         "untilNumerical": 30,
         "description": "Užupio kavinė, Užupio g. 2",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/355",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -2847,7 +2982,8 @@
         "untilNumerical": 23,
         "description": "Kęstučio g. 39",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/356",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -2868,7 +3004,8 @@
         "untilNumerical": 21,
         "description": "Villniaus Šv. Kryžiaus bažnyčia Daukanto a. 1",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/357",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -2889,7 +3026,8 @@
         "untilNumerical": 22,
         "description": "Vokiečių g. 6",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/358",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -2910,7 +3048,8 @@
         "untilNumerical": 1,
         "description": "Knygynas „Katalikų pasaulis“, Šventaragio g. 4.",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/360",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -2931,7 +3070,8 @@
         "untilNumerical": 0,
         "description": "„7 Fridays bar“, Pranciškonų g. 3",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/361",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -2952,7 +3092,8 @@
         "untilNumerical": 2,
         "description": "Centro Pasažas, Vilniaus g. 10",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/362",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -2973,7 +3114,8 @@
         "untilNumerical": 21,
         "description": "Susitikimo vieta - Genių stotelė, Parko g., Naujoji Vilnia",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/364",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -2994,7 +3136,8 @@
         "untilNumerical": 0.5,
         "description": "Pievelė prie Vilnelės ir Skaisčiausiosios Dievo Motinos cerkvės",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/365",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -3015,7 +3158,8 @@
         "untilNumerical": 2,
         "description": "„Foosin“ stalo futbolo klubas, Teatro Arena, Olimpiečių g. 3",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/366",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
@@ -3036,7 +3180,8 @@
         "untilNumerical": 22,
         "description": "Didžioji g. 30 ir Gedimino pr. 1",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/367",
-        "type": "cinema"
+        "type": "cinema",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/cinema.png"
       },
       "geometry": {
         "type": "Point",
@@ -3057,7 +3202,8 @@
         "untilNumerical": 2,
         "description": "Totorių g. 20",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/368",
-        "type": "music_live"
+        "type": "music_live",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/music_live.png"
       },
       "geometry": {
         "type": "Point",
@@ -3078,7 +3224,8 @@
         "untilNumerical": 1,
         "description": "Vilniaus lenkų kultūros namai, Naugarduko g. 76",
         "link": "http://www.kulturosnaktis.lt/lt/projects/view/369",
-        "type": "flag-export"
+        "type": "flag-export",
+        "icon": "http://www.kulturosnaktis.lt/images/map/g/flag-export.png"
       },
       "geometry": {
         "type": "Point",
